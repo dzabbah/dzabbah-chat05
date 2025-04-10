@@ -1,0 +1,66 @@
+API Keys Cloud name: dkozvrp5g
+
+Manage API key and secret pairs for your product environment. To build the environment variable for each pair, copy the provided format and substitute your actual values for the placeholders. Make sure to store your secrets securely.
+API environment variable
+CLOUDINARY_URL=cloudinary://<your_api_key>:<your_api_secret>@dkozvrp5g
+API_key: 915639994794425
+API_secret: 0uUH4Jk3z2uVRzOiyaEjtIQgMis
+
+
+ MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io
+Codesistency
+76.4K subscribers
+
+    
+    
+
+    
+  
+MERN Stack Project: Realtime Chat App Tutorial - React.js & Socket.io
+    
+    
+lien YouTube: https://www.youtube.com/watch?v=ntKkVrQqBYY&t=2751s
+    
+  
+345,852 views  Nov 19, 2024
+Build a Realtime Chat App with MERN Stack. Completely beginner friendly.
+My 100 Hours Udemy Course: https://www.udemy.com/course/the-web-...
+Source Code:https://github.com/burakorkmez/fullst...
+
+Discord for your questions:   / discord  
+
+Highlights:
+🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+🎃 Authentication && Authorization with JWT
+👾 Real-time messaging with Socket.io
+🚀 Online user status
+👌 Global state management with Zustand
+🐞 Error handling both on the server and on the client
+⭐ At the end Deployment like a pro for FREE!
+⏳ And much more!
+
+Timestamps:
+BACKEND
+00:00:00 - Demo
+00:01:44 - Backend Setup
+00:13:46 - Database Setup
+00:26:04 - Signup 
+00:47:38 - Login & Logout & Update Profile
+01:12:52 - Message Routes
+---------------------------------------------
+03H26 --- fin du backend avec les erreurs de postman
+lien git de la sauvegarde: https://github.com/dzabbah/dzabbah-chat05.git
+
+
+
+FRONTEND
+01:27:40 - Signup & Login Pages  
+==== 1h50min36 aujourdhui à 01H35 10/04/2025
+
+02:16:09 - Profile Page
+02:30:23 - Settings Page
+02:41:29 - Home Page - Sidebar
+02:58:06 - Home Page - Chat Container
+03:29:26 - Understanding & Implementing Socket.io
+04:15:09 - Detailed Deployment
+04:29:22 - Final Tests & bye
