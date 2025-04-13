@@ -1,10 +1,10 @@
-import { THEMES } from "../constants";
-import { useThemeStore } from "../store/useThemeStore";
+import { THEMES } from "../constants/index.js";
+import { useThemeStore } from "../store/useThemeStore.js";
 import { Send } from "lucide-react";
 
 const PREVIEW_MESSAGES = [
-  { id: 1, content: "Hey! How's it going?", isSent: false },
-  { id: 2, content: "I'm doing great! Just working on some new features.", isSent: true },
+  { id: 1, content: "Hello gay, What's do you do now ?", isSent: false },
+  { id: 2, content: "I'm learning Software development at GomyCode Bootcamp Training this year!.", isSent: true },
 ];
 
 const SettingsPage = () => {
@@ -54,10 +54,10 @@ const SettingsPage = () => {
                 <div className="px-4 py-3 border-b border-base-300 bg-base-100">
                   <div className="flex items-center gap-3">
                     <div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center text-primary-content font-medium">
-                      J
+                      KS
                     </div>
                     <div>
-                      <h3 className="font-medium text-sm">John Doe</h3>
+                      <h3 className="font-medium text-sm">Kouakou Serge</h3>
                       <p className="text-xs text-base-content/70">Online</p>
                     </div>
                   </div>
