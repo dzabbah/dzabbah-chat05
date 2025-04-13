@@ -7,6 +7,7 @@ import { connectDB } from "./src/lib/db.js";
 
 import authRoutes from "./src/routes/auth.route.js";
 import messageRoutes from "./src/routes/message.route.js";
+//import {app, server} from "./src/lib/socket.js"
 
 dotenv.config();
 const app = express();
